@@ -6,8 +6,8 @@ Utilização da linguagem de programação C na resolução de algoritmos, com e
     - Windows:
         - [MinGW](https://www.mingw-w64.org/downloads/)
     - Linux e Mac:
-        - **GCC** *opção padrão geralmente já disponível nas distribuições
-        - [Clang](https://clang.llvm.org/) *opcional
+        - [GCC](https://gcc.gnu.org/)  *opção padrão geralmente já disponível nas distribuições
+        - [Clang](https://clang.llvm.org/)  *opcional
 
 Instruções de instalação em [Apostila de Introdução à linguagem C](https://edisciplinas.usp.br/mod/book/view.php?id=4642812)
 
