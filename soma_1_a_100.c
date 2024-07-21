@@ -1,5 +1,5 @@
 // Algoritmo que soma todos os números inteiros de 1 a 100
-// Conhecido com soma de Gauss
+// Conhecido como soma de Gauss
 #include <stdio.h> // Biblioteca de entrada/saída de dados padrão
 
 int main() {
